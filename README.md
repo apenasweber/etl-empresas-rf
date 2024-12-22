@@ -5,6 +5,8 @@
 Desenvolver um pipeline de ETL (Extração, Transformação e Carga) em Python para coletar, processar e categorizar dados de empresas do Brasil, extraídos diretamente do site da Receita Federal. A base resultante será pública, gratuita e servirá para mapear setores econômicos e identificar empresas que aparecem nas reclamações da Trust Works.
 
 ----------
+## 📹 Assista ao Vídeo do Projeto  
+[🔗 Assista ao vídeo no YouTube](https://youtu.be/5UPE6GonLOA)  
 
 ### **Escopo do Projeto:**
 
